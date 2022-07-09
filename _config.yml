@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: 成外高新团学会
+email: gloridust@gmail.com
+url: https://github.com/Gloridust/CflsgxStudentsUnion
+description: "成都外国语学校高新校区团学会官方网站"
+keywords: "成外高新, 学生会"
+skills: "开放 - 包容 - 共享"
+meta_author: 成外高新团学会
 
 # Google webmaster tools
 google_verify:
@@ -32,8 +32,8 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Gloridust
+  location: 四川省成都市高新区 成都外国语学校高新校区 校团委办公室
   social: Around the Web
   credits: Credits
 
